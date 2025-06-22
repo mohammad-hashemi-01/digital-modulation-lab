@@ -18,6 +18,8 @@ The algorithm uses 10,000 iterations by default for thorough convergence. For fa
 % For quick testing (faster but less optimized):
 iter = 1000; % Reduced from 10000
 points = points + 0.05 * force; % Increased from 0.01
+```
+
 ## AdaptiveConstellation vs. Basic Force-Optimized QAM
 
 ### Key Enhancements:
