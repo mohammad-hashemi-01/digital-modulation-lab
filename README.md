@@ -13,6 +13,8 @@ This repository contains MATLAB implementations of digital modulations.
 - Error probability vs. SNR plot (2-PSK)
 - Frequency Domain Filter Analysis
 - Force-Optimized Constellation Design
+- FIR and IIR examples + explanations
+- Non cohear detection explanation
 
 
 
